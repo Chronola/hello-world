@@ -2,11 +2,11 @@
 
 =head1 helloWorld
 
-=head2 My first hello world on C!!
+=begin text
 
-=begin html
-<a href="https://hellokitty.agency">My website</a>
-=end html
+    My first hello world on C!!
+
+=end text
 
 =encoding utf8
 
