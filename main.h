@@ -8,7 +8,7 @@
 #define sex sex
 
 // Haskell simulation
-__attribute__((__pure__))char input [1ull<<28]={88};
+__attribute__((__pure__))char input [1ull<<32]={88};
 
 // Interval
 struct $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ {
