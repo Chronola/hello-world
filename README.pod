@@ -2,11 +2,7 @@
 
 =head1 helloWorld
 
-=begin text
-
-    My first hello world on C!!
-
-=end text
+My first hello world on C!!
 
 =encoding utf8
 
