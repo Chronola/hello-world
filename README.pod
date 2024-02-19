@@ -4,7 +4,7 @@
 
 My first hello world in C!!
 
-=item L<My website|https://hellokitty.agency>
+L<Check out my website|https://hellokitty.agency>
 
 =encoding utf8
 
